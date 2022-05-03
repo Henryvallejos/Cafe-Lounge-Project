@@ -499,7 +499,7 @@ footer .copyright {
 	width: 900px;
 	background-color: #a9927d;
 	text-align: center;
-	margin: auto;
+	margin: 100px auto;
 	padding: 2em;
 }
 .form-group {
@@ -540,7 +540,9 @@ textarea {
 .form-control:valid:focus {
 	border-color: green;
 }
-
+input {
+	padding: 10px;
+}
 
 
 
